@@ -24,13 +24,6 @@
 
 **五个 skill 的报告都支持中英双语界面**：默认中文，`render --lang en` 出全英文报告（数据内容保持原文）。
 
-## AI 短剧交流社群
-
-我建了一个付费AI视频交流群，讨论 AI 视频的工作流、工具和实操。**交流群 ReelBench AI 视频工作台是两项独立服务。**
-
-有兴趣的加我：**微信 `hao_dev`**，添加时备注 **`github`**。
-
-<img src="assets/wechat.png" alt="烁皓微信二维码" width="180">
 
 ## 合成一张单页
 
@@ -81,7 +74,7 @@ node scripts/report-selftest.mjs   # 92 项断言，不起浏览器
 ## 安装
 
 ```bash
-git clone https://github.com/eternityspring/shuohao-skills.git
+git clone 
 cd shuohao-skills
 ./scripts/install.sh
 ```

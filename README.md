@@ -12,7 +12,7 @@
 
 整条管线长这样——**改编大纲收敛结构，剧本、场景、角色三者同步迭代，分镜只做输出不做新决定**：
 
-<img src="assets/pipeline.webp" alt="AI 短剧制作流程图" width="680">
+<img src="assets/pipeline.png" alt="AI 短剧制作流程图" width="680">
 
 | Skill | 做什么 |
 | --- | --- |
